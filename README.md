@@ -89,3 +89,48 @@ These approaches support the analysis of complex biological datasets and enable 
 ---
 
 ## Repository Structure
+
+The repository is organized to support reproducible computational research:
+
+- `src/` — Core source code
+- `notebooks/` — Exploratory analyses and computational notebooks
+- `docs/` — Scientific documentation and notes
+- `data/` — Data scripts, metadata, and data-access documentation
+- `results/` — Analytical outputs, tables, and figures
+- `models/` — Machine learning and deep learning models
+- `scripts/` — Utility scripts and workflow helpers
+- `tests/` — Validation scripts and testing modules
+- `environment/` — Dependency and environment configuration files
+
+---
+
+## About the Researcher
+
+**Mohammadreza Dadashi**
+
+Student and interdisciplinary researcher in biological sciences with research interests in:
+
+- Immunology
+- Immunogenetics
+- Cancer immunology
+- Neuroimmunology
+- Computational biology
+- Bioinformatics
+- Structural immunology
+- Biostatistics
+- Statistical programming
+- Machine learning and deep learning
+- AI-assisted analysis of complex biological data
+
+This repository serves as a computational workspace for discovery-oriented research at the intersection of immunology, genetics, structural biology, and data science.
+
+---
+
+## Scientific Vision
+
+The immune system can be viewed as a complex molecular network where genes, receptors, cells, and signals interact across multiple biological scales.
+
+This project aims to contribute to the computational understanding of immune recognition by studying immune receptor structure, genetic diversity, and disease-associated immune patterns.
+
+
+
