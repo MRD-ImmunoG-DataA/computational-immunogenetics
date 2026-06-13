@@ -4,7 +4,7 @@
 
 A discovery- and identification-driven research repository in immunology and immunogenetics.
 
-Decoding the immune network, receptor by receptor.
+
 
 ---
 
