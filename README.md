@@ -88,7 +88,7 @@ These approaches support the analysis of complex biological datasets and enable 
 
 ---
 
-## Repository Structure
+## Project Structure
 
 The repository is organized to support reproducible computational research:
 
